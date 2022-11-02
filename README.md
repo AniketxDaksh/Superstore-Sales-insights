@@ -8,7 +8,7 @@ The sales manager of the company is facing many challenges. He is facing issues 
 
 ## Project
 
-![CHEESE!](https://scontent.fccu2-1.fna.fbcdn.net/v/t39.30808-6/309628815_122419970606927_215737762076702923_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=_emWX3zojOIAX_Dx7XQ&_nc_ht=scontent.fccu2-1.fna&oh=00_AT85EQzGwHwPTpzDC_iHx1dUXTbknCmYyPiA1XjjgbAMSQ&oe=634C693D)
+![CHEESE!](https://media3.giphy.com/media/cc4zRJaz2mQl7utEso/giphy.gif?cid=790b76116eb6a04b8c76075a0f0a9023bd2f94c479d3d628&rid=giphy.gif&ct=g)
 ![CHEESE!](https://scontent.fccu2-2.fna.fbcdn.net/v/t39.30808-6/309672503_122419990606925_1129300012922237201_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=4ylUyjyUZCYAX9jALqk&tn=CghtMDl0imR0Xvr3&_nc_ht=scontent.fccu2-2.fna&oh=00_AT9kLRYWd79Vf4wOkWX202GF_mmIX7BSQMPJDaZYgNqv1w&oe=634BE5E7)
 ## PURPOSE
 To unlock sales insights that are not visible
