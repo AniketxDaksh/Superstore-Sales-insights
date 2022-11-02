@@ -1,5 +1,6 @@
 
 # Superstore Sales insights
+![CHEESE!](https://media3.giphy.com/media/cc4zRJaz2mQl7utEso/giphy.gif?cid=790b76116eb6a04b8c76075a0f0a9023bd2f94c479d3d628&rid=giphy.gif&ct=g)
 
 Scenario —
 
@@ -8,7 +9,7 @@ The sales manager of the company is facing many challenges. He is facing issues 
 
 ## Project
 
-![CHEESE!](https://media3.giphy.com/media/cc4zRJaz2mQl7utEso/giphy.gif?cid=790b76116eb6a04b8c76075a0f0a9023bd2f94c479d3d628&rid=giphy.gif&ct=g)
+
 ![CHEESE!](https://i.postimg.cc/gkZmMWzh/power-bi.png)
 ## PURPOSE
 To unlock sales insights that are not visible
