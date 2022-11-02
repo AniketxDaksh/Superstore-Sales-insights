@@ -9,7 +9,7 @@ The sales manager of the company is facing many challenges. He is facing issues 
 ## Project
 
 ![CHEESE!](https://media3.giphy.com/media/cc4zRJaz2mQl7utEso/giphy.gif?cid=790b76116eb6a04b8c76075a0f0a9023bd2f94c479d3d628&rid=giphy.gif&ct=g)
-![CHEESE!](https://scontent.fccu2-2.fna.fbcdn.net/v/t39.30808-6/309672503_122419990606925_1129300012922237201_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=4ylUyjyUZCYAX9jALqk&tn=CghtMDl0imR0Xvr3&_nc_ht=scontent.fccu2-2.fna&oh=00_AT9kLRYWd79Vf4wOkWX202GF_mmIX7BSQMPJDaZYgNqv1w&oe=634BE5E7)
+![CHEESE!](https://i.postimg.cc/gkZmMWzh/power-bi.png)
 ## PURPOSE
 To unlock sales insights that are not visible
 before for sales team for decision support&
@@ -48,4 +48,4 @@ This project used the following :
 ## Dataset
 
 - kaggle (Superstore Sales Dataset)
-![CHEESE!](https://scontent.fccu2-1.fna.fbcdn.net/v/t39.30808-6/310548508_122424287273162_5949905859907470327_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=8w7FkD1OYkIAX_paYFL&tn=CghtMDl0imR0Xvr3&_nc_ht=scontent.fccu2-1.fna&oh=00_AT_LMMyjw8hljs3X2Rro1tpWAkDTvhBcMWuRc14wCXjjrQ&oe=634D66F1)
+![CHEESE!](https://miro.medium.com/max/640/0*ftOal7fKVCNtJr4N.png)
