@@ -49,4 +49,4 @@ This project used the following :
 ## Dataset
 
 - kaggle (Superstore Sales Dataset)
-![CHEESE!](https://miro.medium.com/max/640/0*ftOal7fKVCNtJr4N.png)
+![CHEESE!](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)
